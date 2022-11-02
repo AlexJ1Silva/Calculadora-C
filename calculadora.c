@@ -59,6 +59,9 @@ void mostraMenu() // Função que imprime o menu de opções.
 
 void menu() // menu principal onde a logica foi implementada.
 {
+    
+    
+    
     // Primeiro Numero
     
 
