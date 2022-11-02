@@ -68,7 +68,7 @@ void menu() // menu principal onde a logica foi implementada.
 
     int aux = numero1;
 
-    if (aux == numero1) // condição para saida do resultado para numero inteiro ou decimal.
+    if (aux == numero1) // condição para saida do resultado, numero inteiro ou decimal.
     {
         printf("\n\tO primeiro valor escolhido eh %0.0f: inteiro \n\n\t", numero1);
     }
